@@ -23,5 +23,3 @@
 
 一枚热爱计算机的小白，正在慢慢成为大佬的道路摸爬滚打。
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tangriweili&show_icons=true&theme=radical)
